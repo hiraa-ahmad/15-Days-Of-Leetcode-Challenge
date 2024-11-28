@@ -14,8 +14,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/hiraa-ahmad/15-Days-Of-Leetcode-Challenge/tree/master/0015-3sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/hiraa-ahmad/15-Days-Of-Leetcode-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/hiraa-ahmad/15-Days-Of-Leetcode-Challenge/tree/master/0015-3sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/hiraa-ahmad/15-Days-Of-Leetcode-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
