@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/hiraa-ahmad/15-Days-Of-Leetcode-Challenge/tree/master/0015-3sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hiraa-ahmad/15-Days-Of-Leetcode-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0088-merge-sorted-array](https://github.com/hiraa-ahmad/15-Days-Of-Leetcode-Challenge/tree/master/0088-merge-sorted-array) |
+| [0724-find-pivot-index](https://github.com/hiraa-ahmad/15-Days-Of-Leetcode-Challenge/tree/master/0724-find-pivot-index) |
 ## Sorting
 |  |
 | ------- |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/hiraa-ahmad/15-Days-Of-Leetcode-Challenge/tree/master/0014-longest-common-prefix) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/hiraa-ahmad/15-Days-Of-Leetcode-Challenge/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
