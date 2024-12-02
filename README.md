@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/hiraa-ahmad/15-Days-Of-Leetcode-Challenge/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/hiraa-ahmad/15-Days-Of-Leetcode-Challenge/tree/master/0058-length-of-last-word) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hiraa-ahmad/15-Days-Of-Leetcode-Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/hiraa-ahmad/15-Days-Of-Leetcode-Challenge/tree/master/0013-roman-to-integer) |
 ## Array
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hiraa-ahmad/15-Days-Of-Leetcode-Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/hiraa-ahmad/15-Days-Of-Leetcode-Challenge/tree/master/0013-roman-to-integer) |
 ## Sliding Window
 |  |
 | ------- |
@@ -51,4 +53,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/hiraa-ahmad/15-Days-Of-Leetcode-Challenge/tree/master/0066-plus-one) |
+| [0013-roman-to-integer](https://github.com/hiraa-ahmad/15-Days-Of-Leetcode-Challenge/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
