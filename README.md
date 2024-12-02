@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hiraa-ahmad/15-Days-Of-Leetcode-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0088-merge-sorted-array](https://github.com/hiraa-ahmad/15-Days-Of-Leetcode-Challenge/tree/master/0088-merge-sorted-array) |
 | [0724-find-pivot-index](https://github.com/hiraa-ahmad/15-Days-Of-Leetcode-Challenge/tree/master/0724-find-pivot-index) |
+| [0066-plus-one](https://github.com/hiraa-ahmad/15-Days-Of-Leetcode-Challenge/tree/master/0066-plus-one) |
 ## Sorting
 |  |
 | ------- |
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hiraa-ahmad/15-Days-Of-Leetcode-Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/hiraa-ahmad/15-Days-Of-Leetcode-Challenge/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
