@@ -23,11 +23,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/hiraa-ahmad/15-Days-Of-Leetcode-Challenge/tree/master/0088-merge-sorted-array) |
 | [0724-find-pivot-index](https://github.com/hiraa-ahmad/15-Days-Of-Leetcode-Challenge/tree/master/0724-find-pivot-index) |
 | [0066-plus-one](https://github.com/hiraa-ahmad/15-Days-Of-Leetcode-Challenge/tree/master/0066-plus-one) |
+| [0169-majority-element](https://github.com/hiraa-ahmad/15-Days-Of-Leetcode-Challenge/tree/master/0169-majority-element) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/hiraa-ahmad/15-Days-Of-Leetcode-Challenge/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/hiraa-ahmad/15-Days-Of-Leetcode-Challenge/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/hiraa-ahmad/15-Days-Of-Leetcode-Challenge/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hiraa-ahmad/15-Days-Of-Leetcode-Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/hiraa-ahmad/15-Days-Of-Leetcode-Challenge/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/hiraa-ahmad/15-Days-Of-Leetcode-Challenge/tree/master/0169-majority-element) |
 ## Sliding Window
 |  |
 | ------- |
@@ -54,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/hiraa-ahmad/15-Days-Of-Leetcode-Challenge/tree/master/0066-plus-one) |
 | [0013-roman-to-integer](https://github.com/hiraa-ahmad/15-Days-Of-Leetcode-Challenge/tree/master/0013-roman-to-integer) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/hiraa-ahmad/15-Days-Of-Leetcode-Challenge/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/hiraa-ahmad/15-Days-Of-Leetcode-Challenge/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
