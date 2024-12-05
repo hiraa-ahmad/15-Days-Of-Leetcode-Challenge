@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/hiraa-ahmad/15-Days-Of-Leetcode-Challenge/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/hiraa-ahmad/15-Days-Of-Leetcode-Challenge/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/hiraa-ahmad/15-Days-Of-Leetcode-Challenge/tree/master/0189-rotate-array) |
+| [0027-remove-element](https://github.com/hiraa-ahmad/15-Days-Of-Leetcode-Challenge/tree/master/0027-remove-element) |
 ## String
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/hiraa-ahmad/15-Days-Of-Leetcode-Challenge/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/hiraa-ahmad/15-Days-Of-Leetcode-Challenge/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/hiraa-ahmad/15-Days-Of-Leetcode-Challenge/tree/master/0189-rotate-array) |
+| [0027-remove-element](https://github.com/hiraa-ahmad/15-Days-Of-Leetcode-Challenge/tree/master/0027-remove-element) |
 ## Sorting
 |  |
 | ------- |
