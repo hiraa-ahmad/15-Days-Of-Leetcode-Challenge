@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/hiraa-ahmad/15-Days-Of-Leetcode-Challenge/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/hiraa-ahmad/15-Days-Of-Leetcode-Challenge/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/hiraa-ahmad/15-Days-Of-Leetcode-Challenge/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/hiraa-ahmad/15-Days-Of-Leetcode-Challenge/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/hiraa-ahmad/15-Days-Of-Leetcode-Challenge/tree/master/0724-find-pivot-index) |
 | [0066-plus-one](https://github.com/hiraa-ahmad/15-Days-Of-Leetcode-Challenge/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/hiraa-ahmad/15-Days-Of-Leetcode-Challenge/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/hiraa-ahmad/15-Days-Of-Leetcode-Challenge/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/hiraa-ahmad/15-Days-Of-Leetcode-Challenge/tree/master/0066-plus-one) |
 | [0013-roman-to-integer](https://github.com/hiraa-ahmad/15-Days-Of-Leetcode-Challenge/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/hiraa-ahmad/15-Days-Of-Leetcode-Challenge/tree/master/0189-rotate-array) |
 ## Divide and Conquer
 |  |
 | ------- |
