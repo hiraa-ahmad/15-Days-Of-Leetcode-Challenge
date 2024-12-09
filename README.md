@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/hiraa-ahmad/15-Days-Of-Leetcode-Challenge/tree/master/0075-sort-colors) |
 | [1019-squares-of-a-sorted-array](https://github.com/hiraa-ahmad/15-Days-Of-Leetcode-Challenge/tree/master/1019-squares-of-a-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/hiraa-ahmad/15-Days-Of-Leetcode-Challenge/tree/master/0152-maximum-product-subarray) |
+| [0217-contains-duplicate](https://github.com/hiraa-ahmad/15-Days-Of-Leetcode-Challenge/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/hiraa-ahmad/15-Days-Of-Leetcode-Challenge/tree/master/0169-majority-element) |
 | [0075-sort-colors](https://github.com/hiraa-ahmad/15-Days-Of-Leetcode-Challenge/tree/master/0075-sort-colors) |
 | [1019-squares-of-a-sorted-array](https://github.com/hiraa-ahmad/15-Days-Of-Leetcode-Challenge/tree/master/1019-squares-of-a-sorted-array) |
+| [0217-contains-duplicate](https://github.com/hiraa-ahmad/15-Days-Of-Leetcode-Challenge/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/hiraa-ahmad/15-Days-Of-Leetcode-Challenge/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/hiraa-ahmad/15-Days-Of-Leetcode-Challenge/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/hiraa-ahmad/15-Days-Of-Leetcode-Challenge/tree/master/0387-first-unique-character-in-a-string) |
+| [0217-contains-duplicate](https://github.com/hiraa-ahmad/15-Days-Of-Leetcode-Challenge/tree/master/0217-contains-duplicate) |
 ## Sliding Window
 |  |
 | ------- |
