@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/hiraa-ahmad/15-Days-Of-Leetcode-Challenge/tree/master/0189-rotate-array) |
 | [0027-remove-element](https://github.com/hiraa-ahmad/15-Days-Of-Leetcode-Challenge/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/hiraa-ahmad/15-Days-Of-Leetcode-Challenge/tree/master/0075-sort-colors) |
+| [1019-squares-of-a-sorted-array](https://github.com/hiraa-ahmad/15-Days-Of-Leetcode-Challenge/tree/master/1019-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/hiraa-ahmad/15-Days-Of-Leetcode-Challenge/tree/master/0053-maximum-subarray) |
 | [0213-house-robber-ii](https://github.com/hiraa-ahmad/15-Days-Of-Leetcode-Challenge/tree/master/0213-house-robber-ii) |
 | [0075-sort-colors](https://github.com/hiraa-ahmad/15-Days-Of-Leetcode-Challenge/tree/master/0075-sort-colors) |
+| [1019-squares-of-a-sorted-array](https://github.com/hiraa-ahmad/15-Days-Of-Leetcode-Challenge/tree/master/1019-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/hiraa-ahmad/15-Days-Of-Leetcode-Challenge/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/hiraa-ahmad/15-Days-Of-Leetcode-Challenge/tree/master/0169-majority-element) |
 | [0075-sort-colors](https://github.com/hiraa-ahmad/15-Days-Of-Leetcode-Challenge/tree/master/0075-sort-colors) |
+| [1019-squares-of-a-sorted-array](https://github.com/hiraa-ahmad/15-Days-Of-Leetcode-Challenge/tree/master/1019-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
